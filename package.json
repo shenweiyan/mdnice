@@ -6,7 +6,7 @@
   "private": false,
   "main": "lib/Lib.js",
   "module": "lib/Lib.js",
-  "homepage": "https://shenweiyan.github.io/mdnice/",
+  "homepage": "https://md.weiyan.cc",
   "license": "GPL-3.0",
   "typings": "./lib/index.d.ts",
   "repository": {
